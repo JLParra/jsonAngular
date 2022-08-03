@@ -1,0 +1,114 @@
+{
+    "id": 1,
+    "artist": "Varios",
+    "album": {
+        "name": "Hispana",
+        "releaseDate": "",
+        "coverImage": "",
+        "tracks": [
+            {
+                "trackNumber": 1,
+                "trackName": "Vuelvo a vivir,Vuelvo a cantar",
+                "trackLength": "4:48",
+                "trackPrice": 0.99
+            },
+            {
+                "trackNumber": 2,
+                "trackName": "Bloom",
+                "trackLength": "4:10",
+                "trackPrice": 1.99
+            },
+            {
+                "trackNumber": 3,
+                "trackName": "Morning Mr Magpie",
+                "trackLength": "2:50",
+                "trackPrice": 3.99
+            },
+            {
+                "trackNumber": 4,
+                "trackName": "Little by Little",
+                "trackLength": "4:27",
+                "trackPrice": 4.99
+            },
+            {
+                "trackNumber": 5,
+                "trackName": "Feral",
+                "trackLength": "5:00",
+                "trackPrice": 5.99
+            },
+            {
+                "trackNumber": 6,
+                "trackName": "Lotus Flower",
+                "trackLength": "3:25",
+                "trackPrice": 6.99
+            },
+            {
+                "trackNumber": 7,
+                "trackName": "Codex",
+                "trackLength": "4:44",
+                "trackPrice": 7.99
+            },
+            {
+                "trackNumber": 8,
+                "trackName": "Give Up the Ghost",
+                "trackLength": "3:18",
+                "trackPrice": 8.99
+            },
+            {
+                "trackNumber": 9,
+                "trackName": "Paranoid Android",
+                "trackLength": "6:23",
+                "trackPrice": 9.99
+            },
+            {
+                "trackNumber": 10,
+                "trackName": "Subterranean Homesick Alien",
+                "trackLength": "4:27",
+                "trackPrice": 10.99
+            },
+            {
+                "trackNumber": 11,
+                "trackName": "Exit Music (For a Film)",
+                "trackLength": "4:24",
+                "trackPrice": 11.99
+            },
+            {
+                "trackNumber": 12,
+                "trackName": "Let Down",
+                "trackLength": "4:59",
+                "trackPrice": 12.99
+            },
+            {
+                "trackNumber": 13,
+                "trackName": "Karma Police",
+                "trackLength": "4:21",
+                "trackPrice": 13.99
+            },
+            {
+                "trackNumber": 14,
+                "trackName": "Fitter Happier",
+                "trackLength": "1:57",
+                "trackPrice": 14.99
+            },
+            {
+                "trackNumber": 15,
+                "trackName": "Electioneering",
+                "trackLength": "5:00",
+                "trackPrice": 15.99
+            },
+            {
+                "trackNumber": 16,
+                "trackName": "Climbing Up the Walls",
+                "trackLength": "4:45",
+                "trackPrice": 16.99
+            },
+            {
+                "trackNumber": 17,
+                "trackName": "No Surprises",
+                "trackLength": "7:00",
+                "trackPrice": 17.99
+            }
+            
+        ]
+    }
+}
